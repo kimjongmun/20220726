@@ -1,0 +1,16 @@
+﻿  Character.cpp
+  Draw.cpp
+  Goal.cpp
+  Input.cpp
+  main.cpp
+C:\work\20220726\Map.h(9,17): error C2059: 구문 오류: '['
+C:\work\20220726\Map.h(11,2): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\work\20220726\Map.h(11,2): error C2059: 구문 오류: ')'
+  Map.cpp
+C:\work\20220726\Map.h(9,17): error C2059: 구문 오류: '['
+C:\work\20220726\Map.h(11,2): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\work\20220726\Map.h(11,2): error C2059: 구문 오류: ')'
+  Monster.cpp
+  Player.cpp
+  Process.cpp
+  코드를 생성하고 있습니다...
